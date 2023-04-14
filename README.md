@@ -1,10 +1,10 @@
 # Play-with-Numpy
  A Numpy code for mathemetical calculations and ML basics. Get the hands Dirty!!
 
-#Numpy Repo
+# Numpy Repo
 This repository contains a collection of examples and implementations of various functions in the Numpy library for scientific computing in Python.
 
-Contents
+# Contents
 array_creation.ipynb: A Jupyter notebook demonstrating various ways to create Numpy arrays.
 array_indexing_slicing.ipynb: A Jupyter notebook demonstrating how to index and slice Numpy arrays.
 broadcasting.ipynb: A Jupyter notebook demonstrating how broadcasting works in Numpy.
