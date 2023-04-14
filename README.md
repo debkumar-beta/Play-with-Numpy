@@ -1,7 +1,7 @@
 # Play-with-Numpy
  A Numpy code for mathemetical calculations and ML basics. Get the hands Dirty!!
 
-Numpy Repo
+#Numpy Repo
 This repository contains a collection of examples and implementations of various functions in the Numpy library for scientific computing in Python.
 
 Contents
@@ -17,8 +17,7 @@ Installation
 To use this repository, simply clone or download it to your local machine. You will also need to install the requirements listed above.
 
 ```sh
-bash
-Copy code
+
 $ git clone https://github.com/debkumar-beta/Play-with-Numpy.git
 $ cd numpy-repo
 $ pip install -r requirements.txt
@@ -27,8 +26,7 @@ Usage
 To run the Jupyter notebooks in this repository, simply open them in a Jupyter notebook environment and run the cells.
 
 ```sh
-bash
-Copy code
+
 $ jupyter notebook
 ```
 License
