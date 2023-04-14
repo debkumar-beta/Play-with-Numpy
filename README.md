@@ -16,19 +16,21 @@ Numpy 1.16.0 or higher
 Installation
 To use this repository, simply clone or download it to your local machine. You will also need to install the requirements listed above.
 
-```
+```sh
 bash
 Copy code
 $ git clone https://github.com/debkumar-beta/Play-with-Numpy.git
 $ cd numpy-repo
 $ pip install -r requirements.txt
-sh```
+```
 Usage
 To run the Jupyter notebooks in this repository, simply open them in a Jupyter notebook environment and run the cells.
 
+```sh
 bash
 Copy code
 $ jupyter notebook
+```
 License
 This repository is licensed under the MIT License. See the LICENSE file for more information.
 
